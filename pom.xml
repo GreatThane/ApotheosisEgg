@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.thane</groupId>
-    <artifactId>ApotheosisEgg</artifactId>
+    <artifactId>RelicPlusPlus</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>ApotheosisEgg</name>
-    <description>Adds a relic awarded for receiving all "egg" relics</description>
+    <name>RelicPlusPlus</name>
+    <description>Furnishing out relics, along with a few additions.</description>
 
     <dependencies>
         <dependency>
@@ -37,7 +37,7 @@
     </dependencies>
 
     <build>
-        <finalName>ApotheosisEgg</finalName>
+        <finalName>RelicPlusPlus</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -57,7 +57,7 @@
                         <phase>package</phase>
                         <configuration>
                             <target>
-                                <copy file="target/ApotheosisEgg.jar" tofile="/media/ethan/Spinster/Steam/steamapps/common/SlayTheSpire/mods/ApotheosisEgg.jar"/>
+                                <copy file="target/RelicPlusPlus.jar" tofile="/media/ethan/Spinster/Steam/steamapps/common/SlayTheSpire/mods/RelicPlusPlus.jar"/>
                             </target>
                         </configuration>
                         <goals>

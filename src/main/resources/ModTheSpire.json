@@ -1,10 +1,10 @@
 {
-  "modid": "ApotheosisEgg",
-  "name": "Apotheosis Egg",
+  "modid": "RelicPlusPlus",
+  "name": "Relic++",
   "author_list": ["Thane"],
-  "description": "A little upgrade to the egg relics.",
+  "description": "Furnishing out relics, along with a few additions.",
   "version": "1.0",
-  "sts_version": "10-24-2018",
+  "sts_version": "10-25-2018",
   "mts_version": "3.4.0",
   "dependencies": ["basemod"]
 }

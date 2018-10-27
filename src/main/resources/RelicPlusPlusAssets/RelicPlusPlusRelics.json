@@ -1,0 +1,9 @@
+{
+  "RelicPlusPlus:ApotheosisEgg": {
+    "NAME": "Apotheosis Egg",
+    "FLAVOR": "Mustard.",
+    "DESCRIPTIONS": [
+      "Upon obtaining all three egg relics #b(Molten #bEgg, #bToxic #bEgg, #bFrozen #bEgg) they are replaced with this relic. All future cards will be #yupgraded, and all of your current deck is upgraded."
+    ]
+  }
+}
